@@ -1,0 +1,238 @@
+[
+	{
+		"name": "Mijaci",
+		"leaderName": "Gjorgjija Pulevski",
+		"adjective": ["Mijak"],
+		"startBias": ["Mountain"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "The greatest masters of trade and crafts in Macedonia",
+		"startIntroPart2": "Mijaci - the mountain people of western Macedonia",
+		
+		"declaringWar": "With the Lord on our side, you will lose this war.",
+		"attacked": "You wail pay the price of your sins.",
+		"defeated": "I've been bested.",
+		"introduction": "I am ",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		
+		"afterPeace": "Very well.",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [16,16,16],
+		"innerColor": [255,200,200],
+		"unique": ["Units ignore terrain costs when moving into any tile with Hills","When spreading religion to a city, gain [4] times the amount of followers of other religions as [Culture]"]
+		"cities": ["Галичник","Лазарополе","Гари","Тресонче","Мелничани","Селце","Росоки","Јанче"]
+	}
+	{
+		"name": "Brsjaci",
+		"leaderName": "Car Samuil",
+		"adjective": ["Brsjak"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "The greatest masters of trade and crafts in Macedonia",
+		"startIntroPart2": "Brsjaci - the most populous of all Macedonians. Descendants of ancient Pelagonians.",
+		
+		"declaringWar": "With the Lord on our side, you will lose this war.",
+		"attacked": "You wail pay the price of your sins.",
+		"defeated": "I've been bested.",
+		"introduction": "I am ",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		
+		"afterPeace": "Very well.",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [153, 80, 80],
+		"innerColor": [133, 194, 126],
+		"unique": ["Units ignore terrain costs when moving into any tile with Hills","When spreading religion to a city, gain [4] times the amount of followers of other religions as [Culture]"]
+		"cities": ["Охрид","Прилеп","Битола","Брод","Врбјани","Ботун","Радожда","Кичево"]
+	}
+	
+	{
+		"name": "Kotorci",
+		"leaderName": "Petar Karposh",
+		"adjective": ["Kotoran"],
+		"startBias": ["Mountain"],
+		"preferredVictoryType":"Cultural",
+		
+		"startIntroPart1": "The most productive people in all of Macedonia",
+		"startIntroPart2": "Kotorci - masters of crafting",
+		
+		"declaringWar": "With the Lord on our side, you will lose this war.",
+		"attacked": "You wail pay the price of your sins.",
+		"defeated": "I've been bested.",
+		"introduction": "I am ",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		
+		"afterPeace": "Very well.",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [194, 147, 126],
+		"innerColor": [212, 212, 66],
+		"unique":  ["[-30]% Culture cost of natural border growth [in all cities]","[+50]% [Production] [in all cities]"]
+		"cities": ["Војник","Кратово","Куманово","Куклица","Ранковце","Студена Бара","Пчиња","Опила"]
+	}
+	
+	{
+		"name": "Shopi",
+		"leaderName": "Dedo Iljo Malesevski",
+		"adjective": ["Shop"],
+		"startBias": ["Mountain"],
+		"preferredVictoryType":"Domination",
+		
+		"startIntroPart1": "The most stubborn and rebellious of all Macedonians",
+		"startIntroPart2": "The warmongering Shopye",
+		
+		"declaringWar": "With the Lord on our side, you will lose this war.",
+		"attacked": "You wail pay the price of your sins.",
+		"defeated": "I've been bested.",
+		"introduction": "I am ",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		
+		"afterPeace": "Very well.",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [74, 145, 158],
+		"innerColor": [189, 99, 79],
+		"unique":  ["Starts with [Discipline]adopted", "[Pasture] provides [+1Production]"]
+		"cities": ["Радовиш","Трн","Шопско Рударе","Конче","Лакавица","Каменица","Пирот","Паланка"]
+	}
+	
+	{
+		"name": "Pirinci",
+		"leaderName": "Jane Sandanski",
+		"adjective": ["Pirin"],
+		"startBias": ["Sheep"],
+		"preferredVictoryType":"Domination",
+		
+		"startIntroPart1": "The most stubborn and rebellious of all Macedonians",
+		"startIntroPart2": "The true Macedonian highlanders, Pirinci",
+		
+		"declaringWar": "With the Lord on our side, you will lose this war.",
+		"attacked": "You wail pay the price of your sins.",
+		"defeated": "I've been bested.",
+		"introduction": "I am ",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		
+		"afterPeace": "Very well.",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [74, 158, 81],
+		"innerColor": [252, 186, 3],
+		"unique":  ["Starts with [Discipline] adopted", "[Pasture] provides [+1Sheep,+1 Faith]"]
+		"cities": ["Свети Врач","Петрич","Ќустендил","Горна Џумаја","Берово","Русиново","Габрово","Долна Џумаја"]
+	}
+	
+	{
+		"name": "Tikveshani",
+		"leaderName": "Pere Tosev",
+		"adjective": ["Tikvesh"],
+		"startBias": ["Wine"],
+		"preferredVictoryType":"Domination",
+		
+		"startIntroPart1": "The most ancient spirit reigns among these Macedonians",
+		"startIntroPart2": "The winemakers paradise, Tikvesh",
+		
+		"declaringWar": "With the Lord on our side, you will lose this war.",
+		"attacked": "You wail pay the price of your sins.",
+		"defeated": "I've been bested.",
+		"introduction": "I am ",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		
+		"afterPeace": "Very well.",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [212, 195, 110],
+		"innerColor": [189, 79, 79],
+		"unique":  ["[+2 Food]on [Floodplains]", "[Vineyard] provides [+3 Happiness, +2 Gold]"]
+		"cities": ["Стрмашево","Кавадарци","Неготино","Демир Капија","Барово","Долни Дисан","Горни Дисан","Тимјаник"]
+	}
+	
+	{
+		"name": "Bojmijci",
+		"leaderName": "Goce Delcev",
+		"adjective": ["Bojmijan"],
+		"startBias": ["River"],
+		"preferredVictoryType":"Domination",
+		
+		"startIntroPart1": "The descendants of the first Macedonians",
+		"startIntroPart2": "The purest Macedonian spirit, Bojmijci",
+		
+		"declaringWar": "With the Lord on our side, you will lose this war.",
+		"attacked": "You wail pay the price of your sins.",
+		"defeated": "I've been bested.",
+		"introduction": "I am ",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		
+		"afterPeace": "Very well.",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [191, 34, 34],
+		"innerColor": [235, 223, 59],
+		"unique":  ["[+5 Happiness] in Capital", "[Farm] provides [+2 Happiness, +2 Food, +1 Science]"]
+		"cities": ["Солун","Бојмица","Лерин","Воден","Гивгилија","Валандово","Кукуш","Дојран"]
+	}
+]
